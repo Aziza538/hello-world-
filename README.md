@@ -1,2 +1,3 @@
 # hello-world-
-a place where to store ideas, resources, or share and discuss things with others.
+Hey guys!
+My name is Aziza and I hate carrots.
